@@ -8,5 +8,3 @@ User can change parameters of the GA and ellipse.
 There are two versions.
 
 The first one represents chromosomes as strings, the second one as integers.
-
-Nevertheless, they are of the same speed.
